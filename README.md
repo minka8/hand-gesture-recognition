@@ -139,8 +139,3 @@ Implemented with:
 
 ---
 
-## How to Run
-
-1. Open the notebook:
-   ```bash
-   jupyter notebook hand_gesture_recoginition.ipynb
